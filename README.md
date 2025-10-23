@@ -9,4 +9,5 @@
 -Klasszikus 2D platformer játékmenet:  akadályok(láva medence, kulcs gyűjtés), ellenségek(közelharci/távolsági), pickups(ajtó nyitás, hp), hangeffektek, több szint(menüből szintválasztás)
 
 -WebGL link: https://maxkiwi007.itch.io/a-long-way-home
+
 -A szükséges fájlok a master branch-en találhatóak
