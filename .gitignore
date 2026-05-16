@@ -12,7 +12,6 @@
 .idea/
 .vs/
 *.csproj
-*.sln
 *.user
 *.userprefs
 *.log
